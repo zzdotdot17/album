@@ -20,18 +20,16 @@
     </style>
 
     <style>
-      /* If you can't see it just hit space in here*/
       .gallary {
           font-family:'Wendy One', sans-serif;
       }
-
-    /*body {
-    background-image: -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 100, color-stop(0%, #374566), color-stop(100%, #010203));
-    background-image: -webkit-radial-gradient(#374566, #010203);
-    background-image: -moz-radial-gradient(#374566, #010203);
-    background-image: -o-radial-gradient(#374566, #010203);
-    background-image: radial-gradient(#374566, #010203);
-    } */
+      html { 
+        background: url(assets/default-skin.svg) no-repeat center center fixed; 
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+      }
       span {
           text-transform: uppercase;
       }
@@ -350,8 +348,6 @@
          <h1>Liou</h1>
 
     </div>
-
-
       <!-- <h1>{{ site.name }}</h1> -->
       {%- assign albums = site.data.config -%}
       {%- include album.html -%}
