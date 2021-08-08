@@ -5,75 +5,67 @@
   "parents": [],
   "items": {
     "order": [
-      "2019",
-      "2018"
+      "2020"
     ],
     "dict": {
-      "2018": {
-        "name": "2018",
+      "2020": {
+        "name": "2020",
         "type": "album",
         "root": 1,
         "parents": [
-          "2018"
+          "2020"
         ],
         "items": {
           "order": [
-            "Hokkaido December"
+            "Hoboken",
+            "Richmond",
+            "New York",
+            "Edison"
           ],
           "dict": {
-            "Hokkaido December": {
-              "name": "Hokkaido December",
+            "Hoboken": {
+              "name": "Hoboken",
               "type": "album",
               "root": 2,
               "parents": [
-                "2018",
-                "Hokkaido December"
+                "2020",
+                "Hoboken"
               ],
-              "path": "./_data/albums/2018-Hokkaido December.json",
+              "path": "./_data\\albums\\2020-Hoboken.json",
               "no_sub_album": true
-            }
-          }
-        }
-      },
-      "2019": {
-        "name": "2019",
-        "type": "album",
-        "root": 1,
-        "parents": [
-          "2019"
-        ],
-        "items": {
-          "order": [
-            "August"
-          ],
-          "dict": {
-            "August": {
-              "name": "August",
+            },
+            "Richmond": {
+              "name": "Richmond",
               "type": "album",
               "root": 2,
               "parents": [
-                "2019",
-                "August"
+                "2020",
+                "Richmond"
               ],
-              "items": {
-                "order": [
-                  "Street"
-                ],
-                "dict": {
-                  "Street": {
-                    "name": "Street",
-                    "type": "album",
-                    "root": 3,
-                    "parents": [
-                      "2019",
-                      "August",
-                      "Street"
-                    ],
-                    "path": "./_data/albums/2019-August-Street.json",
-                    "no_sub_album": true
-                  }
-                }
-              }
+              "path": "./_data\\albums\\2020-Richmond.json",
+              "no_sub_album": true
+            },
+            "New York": {
+              "name": "New York",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "2020",
+                "New York"
+              ],
+              "path": "./_data\\albums\\2020-New York.json",
+              "no_sub_album": true
+            },
+            "Edison": {
+              "name": "Edison",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "2020",
+                "Edison"
+              ],
+              "path": "./_data\\albums\\2020-Edison.json",
+              "no_sub_album": true
             }
           }
         }

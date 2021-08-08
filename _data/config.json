@@ -1,106 +1,223 @@
 [
   {
-    "name": "Street",
+    "name": "Hoboken",
     "type": "photos",
     "parents": [
-      "2019",
-      "August",
-      "Street"
+      "2020",
+      "Hoboken"
     ],
     "list": [
       {
         "type": "photo",
-        "width": 850,
-        "height": 1275,
-        "path": "./photos/2019/August/Street/12.jpg",
-        "min_path": "./photos/2019/August/Street/12.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 850,
-        "height": 1275,
-        "path": "./photos/2019/August/Street/10.jpg",
-        "min_path": "./photos/2019/August/Street/10.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 3393,
-        "height": 5089,
-        "path": "./photos/2019/August/Street/08.jpg",
-        "min_path": "./photos/2019/August/Street/08.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 850,
-        "height": 1276,
-        "path": "./photos/2019/August/Street/07.jpg",
-        "min_path": "./photos/2019/August/Street/07.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 850,
-        "height": 1276,
-        "path": "./photos/2019/August/Street/05.jpg",
-        "min_path": "./photos/2019/August/Street/05.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 850,
-        "height": 1275,
-        "path": "./photos/2019/August/Street/04.jpg",
-        "min_path": "./photos/2019/August/Street/04.min.jpg"
+        "width": 1080,
+        "height": 1920,
+        "path": "./photos\\2020\\Hoboken\\WeChat Image_20210808003425.jpg",
+        "min_path": "./photos\\2020\\Hoboken\\WeChat Image_20210808003425.min.jpg"
       }
     ]
   },
   {
-    "name": "Hokkaido December",
+    "name": "Richmond",
     "type": "photos",
     "parents": [
-      "2018",
-      "Hokkaido December"
+      "2020",
+      "Richmond"
     ],
     "list": [
       {
         "type": "photo",
-        "width": 1701,
-        "height": 1133,
-        "path": "./photos/2018/Hokkaido December/13.jpg",
-        "min_path": "./photos/2018/Hokkaido December/13.min.jpg"
+        "width": 1080,
+        "height": 1920,
+        "path": "./photos\\2020\\Richmond\\WeChat Image_20210808003416.jpg",
+        "min_path": "./photos\\2020\\Richmond\\WeChat Image_20210808003416.min.jpg"
       },
       {
         "type": "photo",
-        "width": 1701,
-        "height": 983,
-        "path": "./photos/2018/Hokkaido December/08.jpg",
-        "min_path": "./photos/2018/Hokkaido December/08.min.jpg"
+        "width": 1045,
+        "height": 1857,
+        "path": "./photos\\2020\\Richmond\\WeChat Image_20210808003407.jpg",
+        "min_path": "./photos\\2020\\Richmond\\WeChat Image_20210808003407.min.jpg"
       },
       {
         "type": "photo",
-        "width": 4344,
-        "height": 2897,
-        "path": "./photos/2018/Hokkaido December/07.jpg",
-        "min_path": "./photos/2018/Hokkaido December/07.min.jpg"
+        "width": 1440,
+        "height": 1080,
+        "path": "./photos\\2020\\Richmond\\WeChat Image_20210808003403.jpg",
+        "min_path": "./photos\\2020\\Richmond\\WeChat Image_20210808003403.min.jpg"
       },
       {
         "type": "photo",
-        "width": 1701,
-        "height": 1134,
-        "path": "./photos/2018/Hokkaido December/05.jpg",
-        "min_path": "./photos/2018/Hokkaido December/05.min.jpg"
+        "width": 1440,
+        "height": 1080,
+        "path": "./photos\\2020\\Richmond\\WeChat Image_20210808003359.jpg",
+        "min_path": "./photos\\2020\\Richmond\\WeChat Image_20210808003359.min.jpg"
       },
       {
         "type": "photo",
-        "width": 4806,
-        "height": 3201,
-        "path": "./photos/2018/Hokkaido December/04.jpg",
-        "min_path": "./photos/2018/Hokkaido December/04.min.jpg"
+        "width": 1080,
+        "height": 1440,
+        "path": "./photos\\2020\\Richmond\\WeChat Image_20210808003354.jpg",
+        "min_path": "./photos\\2020\\Richmond\\WeChat Image_20210808003354.min.jpg"
       },
       {
         "type": "photo",
-        "width": 1701,
-        "height": 1122,
-        "path": "./photos/2018/Hokkaido December/01.jpg",
-        "min_path": "./photos/2018/Hokkaido December/01.min.jpg"
+        "width": 1440,
+        "height": 1080,
+        "path": "./photos\\2020\\Richmond\\WeChat Image_20210808003350.jpg",
+        "min_path": "./photos\\2020\\Richmond\\WeChat Image_20210808003350.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1080,
+        "height": 1440,
+        "path": "./photos\\2020\\Richmond\\WeChat Image_20210808003346.jpg",
+        "min_path": "./photos\\2020\\Richmond\\WeChat Image_20210808003346.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 750,
+        "height": 615,
+        "path": "./photos\\2020\\Richmond\\WeChat Image_20210808003317.jpg",
+        "min_path": "./photos\\2020\\Richmond\\WeChat Image_20210808003317.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 453,
+        "height": 807,
+        "path": "./photos\\2020\\Richmond\\WeChat Image_20210808003251.jpg",
+        "min_path": "./photos\\2020\\Richmond\\WeChat Image_20210808003251.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 963,
+        "height": 1712,
+        "path": "./photos\\2020\\Richmond\\WeChat Image_20210808003244.jpg",
+        "min_path": "./photos\\2020\\Richmond\\WeChat Image_20210808003244.min.jpg"
+      }
+    ]
+  },
+  {
+    "name": "New York",
+    "type": "photos",
+    "parents": [
+      "2020",
+      "New York"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 1080,
+        "height": 1440,
+        "path": "./photos\\2020\\New York\\WeChat Image_20210808003327.jpg",
+        "min_path": "./photos\\2020\\New York\\WeChat Image_20210808003327.min.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Edison",
+    "type": "photos",
+    "parents": [
+      "2020",
+      "Edison"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 1080,
+        "height": 1920,
+        "path": "./photos\\2020\\Edison\\WeChat Image_20210808003420.jpg",
+        "min_path": "./photos\\2020\\Edison\\WeChat Image_20210808003420.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1080,
+        "height": 1920,
+        "path": "./photos\\2020\\Edison\\WeChat Image_20210808003412.jpg",
+        "min_path": "./photos\\2020\\Edison\\WeChat Image_20210808003412.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1080,
+        "height": 1440,
+        "path": "./photos\\2020\\Edison\\WeChat Image_20210808003342.jpg",
+        "min_path": "./photos\\2020\\Edison\\WeChat Image_20210808003342.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1080,
+        "height": 1440,
+        "path": "./photos\\2020\\Edison\\WeChat Image_20210808003337.jpg",
+        "min_path": "./photos\\2020\\Edison\\WeChat Image_20210808003337.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1080,
+        "height": 1440,
+        "path": "./photos\\2020\\Edison\\WeChat Image_20210808003332.jpg",
+        "min_path": "./photos\\2020\\Edison\\WeChat Image_20210808003332.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 765,
+        "height": 1361,
+        "path": "./photos\\2020\\Edison\\WeChat Image_20210808003322.jpg",
+        "min_path": "./photos\\2020\\Edison\\WeChat Image_20210808003322.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1080,
+        "height": 1440,
+        "path": "./photos\\2020\\Edison\\WeChat Image_20210808003312.jpg",
+        "min_path": "./photos\\2020\\Edison\\WeChat Image_20210808003312.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1080,
+        "height": 1440,
+        "path": "./photos\\2020\\Edison\\WeChat Image_20210808003307.jpg",
+        "min_path": "./photos\\2020\\Edison\\WeChat Image_20210808003307.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1080,
+        "height": 1440,
+        "path": "./photos\\2020\\Edison\\WeChat Image_20210808003258.jpg",
+        "min_path": "./photos\\2020\\Edison\\WeChat Image_20210808003258.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 820,
+        "height": 1457,
+        "path": "./photos\\2020\\Edison\\WeChat Image_20210808003236.jpg",
+        "min_path": "./photos\\2020\\Edison\\WeChat Image_20210808003236.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1080,
+        "height": 1440,
+        "path": "./photos\\2020\\Edison\\WeChat Image_20210808003228.jpg",
+        "min_path": "./photos\\2020\\Edison\\WeChat Image_20210808003228.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 717,
+        "height": 1274,
+        "path": "./photos\\2020\\Edison\\WeChat Image_20210808003220.jpg",
+        "min_path": "./photos\\2020\\Edison\\WeChat Image_20210808003220.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1029,
+        "height": 1831,
+        "path": "./photos\\2020\\Edison\\WeChat Image_20210808003212.jpg",
+        "min_path": "./photos\\2020\\Edison\\WeChat Image_20210808003212.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 731,
+        "height": 1301,
+        "path": "./photos\\2020\\Edison\\WeChat Image_20210808003157.jpg",
+        "min_path": "./photos\\2020\\Edison\\WeChat Image_20210808003157.min.jpg"
       }
     ]
   }

@@ -1,0 +1,86 @@
+{
+  "order": [
+    "WeChat Image_20210808003416.jpg",
+    "WeChat Image_20210808003407.jpg",
+    "WeChat Image_20210808003403.jpg",
+    "WeChat Image_20210808003359.jpg",
+    "WeChat Image_20210808003354.jpg",
+    "WeChat Image_20210808003350.jpg",
+    "WeChat Image_20210808003346.jpg",
+    "WeChat Image_20210808003317.jpg",
+    "WeChat Image_20210808003251.jpg",
+    "WeChat Image_20210808003244.jpg"
+  ],
+  "dict": {
+    "WeChat Image_20210808003416.jpg": {
+      "type": "photo",
+      "width": 1080,
+      "height": 1920,
+      "path": "./photos\\2020\\Richmond\\WeChat Image_20210808003416.jpg",
+      "min_path": "./photos\\2020\\Richmond\\WeChat Image_20210808003416.min.jpg"
+    },
+    "WeChat Image_20210808003407.jpg": {
+      "type": "photo",
+      "width": 1045,
+      "height": 1857,
+      "path": "./photos\\2020\\Richmond\\WeChat Image_20210808003407.jpg",
+      "min_path": "./photos\\2020\\Richmond\\WeChat Image_20210808003407.min.jpg"
+    },
+    "WeChat Image_20210808003403.jpg": {
+      "type": "photo",
+      "width": 1440,
+      "height": 1080,
+      "path": "./photos\\2020\\Richmond\\WeChat Image_20210808003403.jpg",
+      "min_path": "./photos\\2020\\Richmond\\WeChat Image_20210808003403.min.jpg"
+    },
+    "WeChat Image_20210808003359.jpg": {
+      "type": "photo",
+      "width": 1440,
+      "height": 1080,
+      "path": "./photos\\2020\\Richmond\\WeChat Image_20210808003359.jpg",
+      "min_path": "./photos\\2020\\Richmond\\WeChat Image_20210808003359.min.jpg"
+    },
+    "WeChat Image_20210808003354.jpg": {
+      "type": "photo",
+      "width": 1080,
+      "height": 1440,
+      "path": "./photos\\2020\\Richmond\\WeChat Image_20210808003354.jpg",
+      "min_path": "./photos\\2020\\Richmond\\WeChat Image_20210808003354.min.jpg"
+    },
+    "WeChat Image_20210808003350.jpg": {
+      "type": "photo",
+      "width": 1440,
+      "height": 1080,
+      "path": "./photos\\2020\\Richmond\\WeChat Image_20210808003350.jpg",
+      "min_path": "./photos\\2020\\Richmond\\WeChat Image_20210808003350.min.jpg"
+    },
+    "WeChat Image_20210808003346.jpg": {
+      "type": "photo",
+      "width": 1080,
+      "height": 1440,
+      "path": "./photos\\2020\\Richmond\\WeChat Image_20210808003346.jpg",
+      "min_path": "./photos\\2020\\Richmond\\WeChat Image_20210808003346.min.jpg"
+    },
+    "WeChat Image_20210808003317.jpg": {
+      "type": "photo",
+      "width": 750,
+      "height": 615,
+      "path": "./photos\\2020\\Richmond\\WeChat Image_20210808003317.jpg",
+      "min_path": "./photos\\2020\\Richmond\\WeChat Image_20210808003317.min.jpg"
+    },
+    "WeChat Image_20210808003251.jpg": {
+      "type": "photo",
+      "width": 453,
+      "height": 807,
+      "path": "./photos\\2020\\Richmond\\WeChat Image_20210808003251.jpg",
+      "min_path": "./photos\\2020\\Richmond\\WeChat Image_20210808003251.min.jpg"
+    },
+    "WeChat Image_20210808003244.jpg": {
+      "type": "photo",
+      "width": 963,
+      "height": 1712,
+      "path": "./photos\\2020\\Richmond\\WeChat Image_20210808003244.jpg",
+      "min_path": "./photos\\2020\\Richmond\\WeChat Image_20210808003244.min.jpg"
+    }
+  }
+}

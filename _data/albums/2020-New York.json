@@ -1,0 +1,14 @@
+{
+  "order": [
+    "WeChat Image_20210808003327.jpg"
+  ],
+  "dict": {
+    "WeChat Image_20210808003327.jpg": {
+      "type": "photo",
+      "width": 1080,
+      "height": 1440,
+      "path": "./photos\\2020\\New York\\WeChat Image_20210808003327.jpg",
+      "min_path": "./photos\\2020\\New York\\WeChat Image_20210808003327.min.jpg"
+    }
+  }
+}

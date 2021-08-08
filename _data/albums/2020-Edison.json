@@ -1,0 +1,118 @@
+{
+  "order": [
+    "WeChat Image_20210808003420.jpg",
+    "WeChat Image_20210808003412.jpg",
+    "WeChat Image_20210808003342.jpg",
+    "WeChat Image_20210808003337.jpg",
+    "WeChat Image_20210808003332.jpg",
+    "WeChat Image_20210808003322.jpg",
+    "WeChat Image_20210808003312.jpg",
+    "WeChat Image_20210808003307.jpg",
+    "WeChat Image_20210808003258.jpg",
+    "WeChat Image_20210808003236.jpg",
+    "WeChat Image_20210808003228.jpg",
+    "WeChat Image_20210808003220.jpg",
+    "WeChat Image_20210808003212.jpg",
+    "WeChat Image_20210808003157.jpg"
+  ],
+  "dict": {
+    "WeChat Image_20210808003420.jpg": {
+      "type": "photo",
+      "width": 1080,
+      "height": 1920,
+      "path": "./photos\\2020\\Edison\\WeChat Image_20210808003420.jpg",
+      "min_path": "./photos\\2020\\Edison\\WeChat Image_20210808003420.min.jpg"
+    },
+    "WeChat Image_20210808003412.jpg": {
+      "type": "photo",
+      "width": 1080,
+      "height": 1920,
+      "path": "./photos\\2020\\Edison\\WeChat Image_20210808003412.jpg",
+      "min_path": "./photos\\2020\\Edison\\WeChat Image_20210808003412.min.jpg"
+    },
+    "WeChat Image_20210808003342.jpg": {
+      "type": "photo",
+      "width": 1080,
+      "height": 1440,
+      "path": "./photos\\2020\\Edison\\WeChat Image_20210808003342.jpg",
+      "min_path": "./photos\\2020\\Edison\\WeChat Image_20210808003342.min.jpg"
+    },
+    "WeChat Image_20210808003337.jpg": {
+      "type": "photo",
+      "width": 1080,
+      "height": 1440,
+      "path": "./photos\\2020\\Edison\\WeChat Image_20210808003337.jpg",
+      "min_path": "./photos\\2020\\Edison\\WeChat Image_20210808003337.min.jpg"
+    },
+    "WeChat Image_20210808003332.jpg": {
+      "type": "photo",
+      "width": 1080,
+      "height": 1440,
+      "path": "./photos\\2020\\Edison\\WeChat Image_20210808003332.jpg",
+      "min_path": "./photos\\2020\\Edison\\WeChat Image_20210808003332.min.jpg"
+    },
+    "WeChat Image_20210808003322.jpg": {
+      "type": "photo",
+      "width": 765,
+      "height": 1361,
+      "path": "./photos\\2020\\Edison\\WeChat Image_20210808003322.jpg",
+      "min_path": "./photos\\2020\\Edison\\WeChat Image_20210808003322.min.jpg"
+    },
+    "WeChat Image_20210808003312.jpg": {
+      "type": "photo",
+      "width": 1080,
+      "height": 1440,
+      "path": "./photos\\2020\\Edison\\WeChat Image_20210808003312.jpg",
+      "min_path": "./photos\\2020\\Edison\\WeChat Image_20210808003312.min.jpg"
+    },
+    "WeChat Image_20210808003307.jpg": {
+      "type": "photo",
+      "width": 1080,
+      "height": 1440,
+      "path": "./photos\\2020\\Edison\\WeChat Image_20210808003307.jpg",
+      "min_path": "./photos\\2020\\Edison\\WeChat Image_20210808003307.min.jpg"
+    },
+    "WeChat Image_20210808003258.jpg": {
+      "type": "photo",
+      "width": 1080,
+      "height": 1440,
+      "path": "./photos\\2020\\Edison\\WeChat Image_20210808003258.jpg",
+      "min_path": "./photos\\2020\\Edison\\WeChat Image_20210808003258.min.jpg"
+    },
+    "WeChat Image_20210808003236.jpg": {
+      "type": "photo",
+      "width": 820,
+      "height": 1457,
+      "path": "./photos\\2020\\Edison\\WeChat Image_20210808003236.jpg",
+      "min_path": "./photos\\2020\\Edison\\WeChat Image_20210808003236.min.jpg"
+    },
+    "WeChat Image_20210808003228.jpg": {
+      "type": "photo",
+      "width": 1080,
+      "height": 1440,
+      "path": "./photos\\2020\\Edison\\WeChat Image_20210808003228.jpg",
+      "min_path": "./photos\\2020\\Edison\\WeChat Image_20210808003228.min.jpg"
+    },
+    "WeChat Image_20210808003220.jpg": {
+      "type": "photo",
+      "width": 717,
+      "height": 1274,
+      "path": "./photos\\2020\\Edison\\WeChat Image_20210808003220.jpg",
+      "min_path": "./photos\\2020\\Edison\\WeChat Image_20210808003220.min.jpg"
+    },
+    "WeChat Image_20210808003212.jpg": {
+      "type": "photo",
+      "width": 1029,
+      "height": 1831,
+      "path": "./photos\\2020\\Edison\\WeChat Image_20210808003212.jpg",
+      "min_path": "./photos\\2020\\Edison\\WeChat Image_20210808003212.min.jpg"
+    },
+    "WeChat Image_20210808003157.jpg": {
+      "type": "photo",
+      "width": 731,
+      "height": 1301,
+      "path": "./photos\\2020\\Edison\\WeChat Image_20210808003157.jpg",
+      "min_path": "./photos\\2020\\Edison\\WeChat Image_20210808003157.min.jpg"
+    }
+  }
+}
